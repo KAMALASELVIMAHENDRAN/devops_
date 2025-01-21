@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hi I am kamal my roll no is 43
+=======
+Hello
+>>>>>>> 25266e165e9a053ad7d78c7fb3fc93f3e45d67f7
